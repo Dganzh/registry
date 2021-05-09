@@ -1,0 +1,2 @@
+# registry
+registry for kvserver
